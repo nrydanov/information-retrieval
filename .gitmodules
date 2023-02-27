@@ -1,0 +1,3 @@
+[submodule "SearchEngine"]
+	path = SearchEngine
+	url = git@github.com:nrydanov/lucene-search-engine.git
